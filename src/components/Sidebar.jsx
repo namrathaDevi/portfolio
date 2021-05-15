@@ -8,9 +8,9 @@ export default class Sidebar extends Component {
           <aside id="colorlib-aside" className="border js-fullheight">
             <div className="text-center">
               <div className="author-img" style={{backgroundImage: 'url(images/about.jpg)'}} />
-              <h3 id="colorlib-logo"><a href="index.html">Karun Karthik</a></h3>
-              <h5>EduMoon<br/>Lead Developer &  Instructor </h5>
-              <span className="email"><i className="icon-mail"></i> karunkarthik.t@gmail.com</span>
+              <h3 id="colorlib-logo"><a href="index.html">Namratha Devi</a></h3>
+              <h5>Bootcamp<br/>Learner </h5>
+              <span className="email"><i className="icon-mail"></i> kndevi1001@gmail.com</span>
               <br/>
             </div>
             <nav id="colorlib-main-menu" role="navigation" className="navbar">
@@ -25,9 +25,7 @@ export default class Sidebar extends Component {
             </nav>
             <nav id="colorlib-main-menu">
               <ul>
-              <li><a href="https://github.com/karunkarthik-git" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
-                <li><a href="https://instagram.com/_.karun._" target="_blank" rel="noopener noreferrer"><i className="icon-instagram" /></a></li>
-                <li><a href="https://www.linkedin.com/in/karun-karthik-5a0794187" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
+              <li><a href="https://github.com/namrathaDevi" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
               </ul>
             </nav>
             <div className="colorlib-footer">

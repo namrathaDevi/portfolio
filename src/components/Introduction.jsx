@@ -22,7 +22,7 @@ class Introduction extends Component {
                         <div style={{fontSize:'50px',fontWeight:'900', color:'white'}}>
                           <h3 style={{color:'white'}}>Hey There !</h3>
                           <span><Typewriter
-                            string="I'm Karun Karthik"
+                            string="I'm Namratha Devi"
                             delay={100}
                             cursor="|"
                           /></span>

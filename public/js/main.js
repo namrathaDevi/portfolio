@@ -1,6 +1,7 @@
+/* eslint-disable no-undef */
 ;(function () {
 	
-	'use strict';
+	
 
 
 
@@ -28,6 +29,7 @@
 	var fullHeight = function() {
 
 		if ( !isMobile.any() ) {
+			// eslint-disable-next-line no-undef
 			$('.js-fullheight').css('height', $(window).height());
 			$(window).resize(function(){
 				$('.js-fullheight').css('height', $(window).height());
@@ -60,12 +62,10 @@
 
 	// Animations
 	var contentWayPoint = function() {
-		var i = 0;
 		$('.animate-box').waypoint( function( direction ) {
 
 			if( direction === 'down' && !$(this.element).hasClass('animated') ) {
 				
-				i++;
 
 				$(this.element).addClass('item-animate');
 				setTimeout(function(){
