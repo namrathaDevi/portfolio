@@ -26,19 +26,7 @@ class Introduction extends Component {
                             delay={100}
                             cursor="|"
                           /></span>
-                          <p className="mt-4">
-                            <a
-                              style={{color:'white'}}
-                              className="btn btn-primary"
-                              href="https://drive.google.com/file/d/1MXcd9O5BWJGAO_Z5V2AQQZj_CeumPSNc/view?usp=sharing"
-                              target="_blank"
-                              rel="noopener noreferrer"
-                            >
-                              Resume{' '}
-                              <i className="icon-download4" style={{color:'white'}} />
-                            </a>
-                          </p>
-                        </div>
+                           </div>
                       </div>
                     </div>
                   </div>

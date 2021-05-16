@@ -24,14 +24,14 @@ export default class Projects extends Component {
               >
                 <div
                   className="project"
-                  style={{ backgroundImage: "url(images/insta-clone.png)" }}
+                  style={{ backgroundImage: "url(images/node-blog.png)" }}
                 >
                   <div className="desc">
                     <div className="con">
                       <h3>
-                        <a href="https://limitless-journey-57515.herokuapp.com/signin">Instagram Clone</a>
+                        <a href="https://github.com/namrathaDevi/node_blog">Node Blog</a>
                       </h3>
-                      <span>MERN Stack</span>
+                      <span>Markdown</span>
                     </div>
                   </div>
                 </div>
@@ -42,32 +42,14 @@ export default class Projects extends Component {
               >
                 <div
                   className="project"
-                  style={{ backgroundImage: "url(images/amazon-clone.png)" }}
+                  style={{ backgroundImage: "url(images/youtube-clone.png)" }}
                 >
                   <div className="desc">
                     <div className="con">
                       <h3>
-                        <a href="https://challenge-3013f.web.app/">Amazon UI Clone</a>
+                        <a href="https://github.com/namrathaDevi/youtube-clone">"Youtube Clone"</a>
                       </h3>
                       <span>React.js & Firebase</span>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div
-                className="col-md-4 animate-box"
-                data-animate-effect="fadeInTop"
-              >
-                <div
-                  className="project"
-                  style={{ backgroundImage: "url(images/xo.png)" }}
-                >
-                  <div className="desc">
-                    <div className="con">
-                      <h3>
-                        <a href="https://karunkarthik-git.github.io/XO-Game/">XO Game</a>
-                      </h3>
-                      <span>Javascript</span>
                     </div>
                   </div>
                 </div>

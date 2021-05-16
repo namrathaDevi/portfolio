@@ -17,35 +17,12 @@ export default class Timeline extends Component {
                 <div className="timeline-centered">
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-3">
-                        <i className="icon-pen2" />
-                      </div>
-                      <div className="timeline-label">
-                        <h2>Internship at <b>Schemax Tech</b> <span>| Feb 2021 - present</span></h2>
-                        <p>Worked on diverse technologies like React.js and AntDesign to build several front-end screens.</p>
-                        <p>Built robust backend services using Nest.js and MySQL.</p>
-                      </div>
-                    </div>
-                  </article>
-                  <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
-                    <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-4">
-                        <i className="icon-pen2" />
-                      </div>
-                      <div className="timeline-label">
-                        <h2>Full Stack Web Developer at <b>EduMoon</b> <span>| Oct 2020 - present</span></h2>
-                        <p>Working as a Web Developer and Technical Lead Instructor at EduMoon</p>
-                      </div>
-                    </div>
-                  </article>
-                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
-                    <div className="timeline-entry-inner">
                       <div className="timeline-icon color-5">
                         <i className="icon-pen2" />
                       </div>
-                      <div className="timeline-label">
-                        <h2>Android Study Jams Facilitator <b>Google DSC</b> <span>| Nov 2020 - Mar 2021</span></h2>
-                        <p>Facilitated the Android Study Jams program at Andhra University and made students Android Ready.</p> 
+                      <div className="timeline-lFacilitated the Android Studyabel">
+                        <h2>bootcamp-project <b>portfolio</b> <span>| 2019 - Mar 2023</span></h2>
+                        <p> Cse student in Andhra University.</p> 
                       </div>
                     </div>
                   </article>
